@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#tabcal {
+	border:solid;}
+#cell80, #cell81, #cell90, #cell91, #cell123, #cell124, #cell133, #cell134, #e, #f, #i, #j {
+	background: #94D352;}
+#cell83, #cell84, #cell93, #cell94, #g, #h {
+	background:#F0F;}
+#cell00 {
+	background:#FF0;}
+#cell21, #cell31, #cell41, #cell60, #cell61, #cell01, #a, #b, #c, #d {
+	background:#FFC300;}
